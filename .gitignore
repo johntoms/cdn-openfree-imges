@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+node_modules/
+public/
+.deploy*/
+# Customer for myself
+_config.yml
+Thumbs.db
+db.json
+.idea/
+venv/
